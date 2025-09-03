@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**milzamhibhaq/milzamhibhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Saya merupakan Mahasiswa Teknik Informatika
 
-Here are some ideas to get you started:
+##### - 😊: Muhammad Milzam Hibatul Haq
+##### - 🔢: 230605110163
+##### - 🪑: B
+##### - 🏦:  UIN Maulana Malik Ibrahim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------------
+##### 🗺️saat ini saya sedang belajar pemrograman Mobile.
+
+
+| Nomor  | Tanggal  | Praktikum Ke- | Topik | Laporan | Repository   |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|  1. | 03-09-2025  | 01   | Pengenalan Mobile Programming dan Setup Lingkungan  |   |   |  |
+|  2. | 03-09-2025  | 02   | Widget Row dan Column  |   |   |  |
+
