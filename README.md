@@ -33,7 +33,8 @@
 |  4. | 10-09-2025  | 02   | Widget Flexible dan Expanded  | [laporan 04](https://drive.google.com/file/d/19uRzHG2ImN9hV1Ct7NyXWnjCtWAl5wqc/view?usp=drive_link "laporan 04")  | [Repository 04](https://github.com/milzamhibhaq/prak.mobile-modul_4 "Repository 04")   |  |
 |  5. | 17-09-2025  | 03   | Widget SizedBox, Spacer, dan Card  | [laporan 05](https://drive.google.com/file/d/1kWWEVJKgD7RyXjGt0Wy_Mliw3_owu4qK/view?usp=drive_link "laporan 05")  | [Repository 05](https://github.com/milzamhibhaq/prak.mobile-modul_5 "Repository 05") |  |
 |  6. | 17-09-2025  | 03   | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [laporan 06](https://drive.google.com/file/d/14cDcXig9GK7VcGkvTsUxw3T89hz3qV-k/view?usp=drive_link "laporan 06")  | [Repository 06](https://github.com/milzamhibhaq/prak.mobile-modul_6 "Repository 06")  |  |
-|  7. | 24-09-2025  | 04   | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  |   |   |  |
-|  8. | 24-09-2025  | 04   | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  |   |   |  |
-|  9. | 01-10-2025  | 05   | StatefulWidget  |   |   |  |
-|  10. | 08-10-2025  | 06   | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  |   |   |  |
+|  7. | 24-09-2025  | 04   | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [laporan 07](https://drive.google.com/file/d/140nAZsUMioBAY91Pww_D6CxVQUp2Yjre/view?usp=drive_link "laporan 07")  | [Repository 07](https://github.com/milzamhibhaq/prak.mobile-modul_7 "Repository 07")  |  |
+|  8. | 24-09-2025  | 04   | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [laporan 08](https://drive.google.com/file/d/1BghqVaGt8NDgTJAD6V53V9hmWjXA-NdN/view?usp=drive_link "laporan 08")  | [Repository 08](https://github.com/milzamhibhaq/prak.mobile-modul_8 "Repository 08")  |  |
+|  9. | 01-10-2025  | 05   | StatefulWidget  | [laporan 09](https://drive.google.com/file/d/1PkqBPQBniEDwlM_Csq2IEg6_T5KLu-S5/view?usp=drive_link "laporan 09")  |   |  |
+|  10. | 08-10-2025  | 06   | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [laporan 10](https://drive.google.com/file/d/1cc091ylEraaqFtoEyE1Blbe0Jl27wWNo/view?usp=drive_link "laporan 10")  |   |  |
+|  11. | 15-10-2025  | 06   | Manajemen State dengan GetX  | [laporan 11](https://drive.google.com/file/d/13l449jfHgXGbu4ZpD9H1V8nJnmr2nCvu/view?usp=sharing "laporan 11")  |   |  |
