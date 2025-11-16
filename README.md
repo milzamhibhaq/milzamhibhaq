@@ -1,15 +1,3 @@
-# Hi there 👋
-
-#### Saya merupakan Mahasiswa Teknik Informatika
-
-##### - 😊: Muhammad Milzam Hibatul Haq
-##### - 🔢: 230605110163
-##### - 🪑: B
-##### - 🏦:  UIN Maulana Malik Ibrahim
-
-
-------------
-##### 🗺️saat ini saya sedang belajar pemrograman Mobile.
 
 # Hi there 👋
 
